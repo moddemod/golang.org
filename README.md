@@ -1,4 +1,4 @@
-###  The latest of mirror golang/x
+###  The  mirror of golang.org/x
 ##### Updated November 13, 2019
 Here is the directory structure. You can use the `CTRL + F` shortcut to search for the files you need.
 
